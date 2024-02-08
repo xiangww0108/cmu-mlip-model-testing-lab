@@ -19,6 +19,10 @@ If you don't have a Zeno account already, create one on Zeno Hub (https://hub.ze
 - Clone the starter code from this [Git repository](https://github.com/sayalikandarkar/cmu-mlip-zeno-lab).
 - The repository includes a python notebook which contains the started code.
 
+## Installation instructions
+- python 3.10 version is needed for the zeno packages to run correctly
+- pip install packaging ~ version 23.2
+
 ## Code related details
 - Replace the API key in the started code
 - Create the project and verify if you can access your project on the hub
