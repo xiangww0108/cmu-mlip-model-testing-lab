@@ -13,6 +13,8 @@ To receive credit for this lab, show your work to the TA during recitation.
 - [ ] Create 5 slices in the Zeno interface, derive meaningful insights and showcase them to the TA
 - [ ] Write down 3 additional slices you want to create and successfully generate 10 examples for one selected slice
 
+Hints: For the slices you create, you should be able to justify why you want to create them and demonstrate what you have observed for the created slices.
+
 ## Getting started
 - Clone the starter code from this [Git repository](https://github.com/malusamayo/cmu-mlip-model-testing-lab).
 - The repository includes a python notebook which contains the starter code.
