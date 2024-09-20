@@ -24,4 +24,5 @@ To receive credit for this lab, show your work to the TA during recitation.
 ## Code related details
 - Finish all 7 steps mentioned in the python notebook
 - If you have trouble downloading the datasets and/or running model inference, use `tweets.csv` shared in the folder
+- If you have trouble starting a local Zeno server, copy the code in `zenohub.py` to the notebook and follow the steps
 - If you have trouble using the GPTs provided, use plain ChatGPT for test case generation
